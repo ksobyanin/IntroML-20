@@ -1,0 +1,4 @@
+D1-4 - damper index
+G1-6 - acceleration value
+A,r1,r2 - direction: axial, radial1, radial2
+SA,SP - spectrum of acceleration amplitude, acceleration phase
